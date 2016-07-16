@@ -12,7 +12,7 @@ public class SearchKeywords {
 @SuppressWarnings("resource")
 public static void main(String[] args) throws IOException{
 		
-	FileReader file = new FileReader("//Users//Fredi//Desktop//KargoQAtest.txt");
+	FileReader file = new FileReader("[Kargo TEXT file here");
 	BufferedReader br = new BufferedReader(file);
 	
 	
